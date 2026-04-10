@@ -1,6 +1,6 @@
 # VAT-INTL-001 — Austrian Tax Law Q&A Models
 
-Three models for answering Austrian tax law questions (KStG, EStG, UStG), evaluated on 644 test questions from `dataset_clean.csv`.
+Three models for answering Austrian tax law questions (KStG, EStG, UStG), evaluated on 643 test questions from `dataset_clean.csv`.
 
 ## Models
 
